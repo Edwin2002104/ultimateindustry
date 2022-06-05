@@ -1,0 +1,17 @@
+abbreviation: WO
+available: false
+classes: 32
+colour: 1
+id: 0
+label: Wood
+longName: wood
+name: Wood
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/wood.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
